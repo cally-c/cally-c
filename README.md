@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello :wave:
 
-<!--
-**cally-c/cally-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<p>I'm currently learning on data analysis with the application of R and Python. Here are some projects to show parts of my learning outcomes. Welcome to leave comments and share your opinions for discussion.:smile:</p>
+</br>
 
-Here are some ideas to get you started:
+#### 1. Master Degree's Coursework
+<p>-STAT5103 High Dimensional Data Analysis</P>
+<p>-STAT5104 Data Mining</p>
+<p>-STAT5106 Programming Techniques for Data Science</p>
+<p>-STAT6104 Financial Time Series</p>
+<br></br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 2. E-commerce Shipping Data Analysis
+<p>-E-commerce Shipping Data Analysis in R</p>
+<p>-E-commerce Shipping Data Analysis in Python</p>
