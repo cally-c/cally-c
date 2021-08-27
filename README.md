@@ -1,7 +1,7 @@
 ### Hello :wave:
 
 <br>
-<p>I'm currently learning on data analysis with the application of R and Python. Here are some projects to show parts of my learning outcomes. Welcome to leave comments and share your opinions for discussion.:smile:</p>
+<p>I'm currently learning on data analysis with the application of R and Python. Here are some projects to show parts of my learning outcomes. Welcome to share your opinions.:smile:</p>
 </br>
 
 #### 1. Master Degree's Coursework
