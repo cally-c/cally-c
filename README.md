@@ -14,3 +14,6 @@
 #### 2. E-commerce Shipping Data Analysis
 <p>-E-commerce Shipping Data Analysis in R</p>
 <p>-E-commerce Shipping Data Analysis in Python</p>
+
+#### 3. Groceries Data Analysis
+<p>-Groceries Data Analysis in R</p>
